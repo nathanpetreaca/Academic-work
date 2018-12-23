@@ -1,4 +1,4 @@
-# CS194-26 Image Manipulation and Computational Photography
+# CS61B Data Structures 
 
 Here are assignment pages for CS61B (Fall 2018) UC Berkeley [Course website](https://sp18.datastructur.es/)
 
