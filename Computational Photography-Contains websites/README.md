@@ -2,7 +2,7 @@
 
 Here are assignment reports for CS194-26(Fall 2018) UC Berkeley [Course website](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)
 
-[Project 1: Colorizing the Prokudin-Gorskii photo collection](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/proj1/cs194-26-aky/)
+[Project 1: Colorizing the Prokudin-Gorskii photo collection](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/proj1/cs194-26-afq/)
 
 [Project 2: Camera Obscura](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/proj2/cs194-26-afq/)
 
