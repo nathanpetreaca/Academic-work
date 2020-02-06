@@ -1,6 +1,6 @@
-# CS194-26 Image Manipulation and Computational Photography
+# CS184/284a Computer Graphics and Imaging
 
-Here are assignment reports for CS194-26(Fall 2018) UC Berkeley [Course website](https://inst.eecs.berkeley.edu/~cs194-26/fa18/)
+Here are assignment reports for CS184/284a(Spring 2019) UC Berkeley [Course website](https://cs184.eecs.berkeley.edu/sp19)
 
 [Project 6: Rendering-Synthetic-Objects-Into-Real-Scenes](https://nathanpetreaca.github.io/Rendering-Synthetic-Objects-Into-Real-Scenes/)
 
